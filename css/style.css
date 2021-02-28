@@ -1,5 +1,6 @@
 body{
     background-color: gray;
+    text-align: justify;
 }
 .menu{
     color: black;
@@ -73,10 +74,17 @@ p{
     height: auto;
     padding: 10px;
 }
-.cim{
+div.cim h1{
     text-align: center;
+    font-size: 90px;
     margin-bottom: 100px;
 }
 h3{
     font-size: 50x;
+}
+.mellek{
+    float: left;
+    box-shadow: gray 5px 5px;
+    height: auto;
+    margin-right: 10px;
 }
